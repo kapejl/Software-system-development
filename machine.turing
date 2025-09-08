@@ -152,7 +152,7 @@
         },
         "check_end": {
             "0": "λ L Y",
-            "1": "λ L back",
+            "1": "1 L back",
             "comment": "",
             "Y": "N",
             "N": "N",
